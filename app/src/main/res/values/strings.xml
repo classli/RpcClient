@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RpcDemo</string>
+    <string name="registry_address">127.0.0.1:2181</string>
+</resources>
